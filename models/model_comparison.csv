@@ -1,0 +1,7 @@
+model,test_accuracy,cv_mean_accuracy,cv_std,train_time_sec
+Logistic Regression,1.0,1.0,0.0,0.416
+SVM (RBF),1.0,1.0,0.0,4.245
+Naive Bayes,1.0,1.0,0.0,0.061
+K-Nearest Neighbors,1.0,1.0,0.0,0.021
+Decision Tree,0.9761904761904762,1.0,0.0,0.081
+Random Forest,0.9761904761904762,1.0,0.0,1.138
